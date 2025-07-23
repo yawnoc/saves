@@ -8,6 +8,7 @@
 | Linux | Bluetooth sound | `apt install libspa-0.2-bluetooth` then reboot | [Original](https://askubuntu.com/questions/1479606/bluetooth-br-connection-profile-unavailable-issue-on-upgrade-to-xubuntu-23-04), [Wayback Machine](https://web.archive.org/web/20250612180733/https://askubuntu.com/questions/1479606/bluetooth-br-connection-profile-unavailable-issue-on-upgrade-to-xubuntu-23-04) |
 | Linux | Bootable USB | `fdisk` and `mkfs.ext4` | [Original](https://verahill.blogspot.com/2013/03/361-installing-debian-on-usb-stick-from.html), [Wayback Machine](https://web.archive.org/web/20250723134852/https://verahill.blogspot.com/2013/03/361-installing-debian-on-usb-stick-from.html), [archive.today](https://archive.md/86JqZ) |
 | Linux | The name `org.freedesktop.portal.Desktop` was not provided | `apt install xdg-desktop-portal` etc. | <https://github.com/flatpak/flatpak/issues/5201#issuecomment-1337471997> |
+| Physics | Confidence intervals for mean of log-normal | Olsson (2005) | <https://doi.org/10.1080/10691898.2005.11910638> |
 | Physics | ECEF to LLA coordinates | Bowring (1976) | <https://doi.org/10.1179/sre.1976.23.181.323> |
 | Physics | Significant digit dogma | John Denker on Uncertainty | [Original](https://www.av8n.com/physics/uncertainty.htm), [Wayback Machine](https://web.archive.org/web/20250723141142/https://www.av8n.com/physics/uncertainty.htm), [archive.today](https://archive.md/Y3Pg) |
 
