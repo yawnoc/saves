@@ -13,6 +13,7 @@
 | Linux | Bootable USB | `fdisk` and `mkfs.ext4` | [Original](https://verahill.blogspot.com/2013/03/361-installing-debian-on-usb-stick-from.html), [Wayback Machine](https://web.archive.org/web/20250723134852/https://verahill.blogspot.com/2013/03/361-installing-debian-on-usb-stick-from.html), [archive.today](https://archive.md/86JqZ) |
 | Linux | Calendar weeks start on Monday not Sunday | Edit `/usr/share/i18n/locales/en_AU` to have `first_weekday 1` then `locale-gen en_AU.UTF-8` then reboot | [Original](https://askubuntu.com/questions/1456793/how-to-change-the-first-day-of-week-on-ubuntu-22-04), [Wayback Machine](https://web.archive.org/web/20230308023812/https://askubuntu.com/questions/1456793/how-to-change-the-first-day-of-week-on-ubuntu-22-04), [archive.today](https://archive.md/eJpTg) |
 | Linux | The name `org.freedesktop.portal.Desktop` was not provided | `apt install xdg-desktop-portal` etc. | <https://github.com/flatpak/flatpak/issues/5201#issuecomment-1337471997> |
+| macOS | Sane key bindings | `brew install --cask karabiner-elements` then `karabiner-windows-mode` | <https://github.com/rux616/karabiner-windows-mode> |
 | macOS | Sane Window switching | `brew install --cask alt-tab` | <https://github.com/lwouis/alt-tab-macos> |
 | Physics | Confidence intervals for mean of log-normal | Olsson (2005) | <https://doi.org/10.1080/10691898.2005.11910638> |
 | Physics | ECEF to LLA coordinates | Bowring (1976) | <https://doi.org/10.1179/sre.1976.23.181.323> |
