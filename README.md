@@ -21,5 +21,6 @@
 | Physics | Confidence intervals for mean of log-normal | Olsson (2005) | <https://doi.org/10.1080/10691898.2005.11910638> |
 | Physics | ECEF to LLA coordinates | Bowring (1976) | <https://doi.org/10.1179/sre.1976.23.181.323> |
 | Physics | Significant digit dogma | John Denker on Uncertainty | [Original](https://www.av8n.com/physics/uncertainty.htm), [Wayback Machine](https://web.archive.org/web/20250723141142/https://www.av8n.com/physics/uncertainty.htm), [archive.today](https://archive.md/Y3Pg) |
+| Xournal++ | PDF background path not relative | File > Annotate PDF > Check "Attach file to the journal | <https://github.com/xournalpp/xournalpp/pull/2106> |
 
 <!-- | Category | Problem | Solution | [Original](), [Wayback Machine](), [archive.today]() | -->
