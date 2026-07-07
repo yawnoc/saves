@@ -4,6 +4,7 @@
 | - | - | - | - |
 | Android | [Simple Mobile Tools sold out](https://github.com/SimpleMobileTools/General-Discussion/issues/241) | Switch to Fossify | <https://github.com/FossifyOrg> |
 | Firefox | [Mozilla deleted promise never to sell personal data](https://github.com/mozilla/bedrock/commit/d459addab846d8144b61939b7f4310eb80c5470e#diff-a24e74e4595fa85440a2f4e7e5dcfe68aba6e1e593aef05a2d35581a91423847L65) | Switch to LibreWolf | <https://www.youtube.com/watch?v=-8bTquKjzos> |
+| Firefox | PDFs forcefully downloaded | Set `browser.download.open_pdf_attachments_inline` to `true` | |
 | Firefox | Protocol not shown in URL bar | Set `browser.urlbar.trimURLs` to `false` | |
 | Firefox | Search term persists in URL bar | Set `browser.urlbar.showSearchTerms.enabled` to `false` | |
 | Firefox | Tab groups | Set `browser.tabs.groups.enabled` and `browser.tabs.groups.smart.enabled` to `false` | |
